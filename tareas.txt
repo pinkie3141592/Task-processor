@@ -1,0 +1,3 @@
+001,Traer la despensa,TERMINADA
+002,Patear otakus,TERMINADA
+000,Nacer,TERMINADA
