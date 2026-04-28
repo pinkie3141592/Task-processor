@@ -4,4 +4,4 @@ venv/
 .env/
 .vscode/
 data/
-*.class
+
